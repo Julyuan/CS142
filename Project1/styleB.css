@@ -1,0 +1,85 @@
+div.A{
+    color:black;
+    width:100px;
+    height:150px;
+    font-family: Tahoma;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    margin-right: 10px;
+    background: #eeeff2;
+    padding-left: 10px;
+}
+
+div.B{
+    color:black;
+    width:100px;
+    height:150px;
+    font-family: Tahoma;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    margin-right: 10px;
+    background: #eeeff2;
+    padding-left: 10px;
+
+}
+
+div.C{
+    color:black;
+    width:100px;
+    height:150px;
+    font-family: Tahoma;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    margin-right: 10px;
+    background: #eeeff2;
+    padding-left: 10px;
+
+}
+
+div.D{
+    color:black;
+    width:100px;
+    height:150px;
+    font-family: Tahoma;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    margin-right: 10px;
+    background: #eeeff2;
+    padding-left: 10px;
+
+}
+
+div.E{
+    color:black;
+    width:100px;
+    height:150px;
+    font-family: Tahoma;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    margin-right: 10px;
+    background: #eeeff2;
+    padding-left: 10px;
+
+}
+
+div.F{
+    color:black;
+    width:100px;
+    height:150px;
+    font-family: Tahoma;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    margin-right: 10px;
+    background: #eeeff2;
+    padding-left: 10px;
+
+}
+
+
+.box{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
